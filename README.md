@@ -1,4 +1,4 @@
-# e-commerce
+# E-Commerce Application : -
  project using angular and Spring boot
 
 Project Title : - E-commerce
