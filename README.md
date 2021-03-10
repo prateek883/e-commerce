@@ -1,6 +1,6 @@
 # E-Commerce Application : -
  
- Project using angular and Spring boot
+ Project using Angular7 and Spring boot
 
 ## Project Title : - E-commerce Application
 
